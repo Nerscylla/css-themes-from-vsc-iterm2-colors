@@ -1,0 +1,20 @@
+:root {
+	--bg: #13773d;
+	--fg: #fff0a5;
+	--red: #ff5959;
+	--green: #00bb00;
+	--blue: #0000a3;
+	--black: #000000;
+	--white: #bbbbbb;
+	--magenta: #ee59bb;
+	--cyan: #00bbbb;
+	--yellow: #e7b000;
+	--bright-red: #ff5959;
+	--bright-green: #00bb00;
+	--bright-blue: #0000bb;
+	--bright-black: #959595;
+	--bright-white: #ffffff;
+	--bright-cyan: #55ffff;
+	--bright-magenta: #ff55ff;
+	--bright-yellow: #e7b000;
+}
