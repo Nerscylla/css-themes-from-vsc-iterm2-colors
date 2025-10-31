@@ -1,1 +1,2 @@
 # CSS Themes
+This Repository contains VSCode Terminal Themes from [Mark Badolato's](https://github.com/mbadolato) [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) and a python script to convert them to small CSS "color preset" Theme files, as well as the Outputted CSS files for a lot of popular and less popular color schemes.
